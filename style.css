@@ -14,7 +14,7 @@
 .row1:hover{
     background-color: rgb(181, 177, 177);
     border:  rgb(181, 177, 177);
-    cursor: grab;
+    cursor: pointer;
 }
 
 .header {
@@ -50,6 +50,7 @@
     background-color: rgb(76, 76, 76);
     border:  rgb(76, 76, 76);
     cursor: grab;
+    cursor: pointer;
 }
 .solve-button{
     background-color: #ff6c04;
@@ -65,6 +66,7 @@
     background-color: #ff8936;
     border:  #ff8936;
     cursor: grab;
+    cursor: pointer;
 }
 .calculator{
     font-family: "Roboto", sans-serif;
