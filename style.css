@@ -8,6 +8,13 @@
     height: 70px;
     color: white;
     font-weight: bold;
+
+
+}
+.row1:hover{
+    background-color: rgb(181, 177, 177);
+    border:  rgb(181, 177, 177);
+    cursor: grab;
 }
 
 .header {
@@ -39,6 +46,11 @@
     height: 70px;
     color: white;
 }
+.row2:hover:hover{
+    background-color: rgb(76, 76, 76);
+    border:  rgb(76, 76, 76);
+    cursor: grab;
+}
 .solve-button{
     background-color: #ff6c04;
     border: 10px solid #ff6c04;
@@ -48,6 +60,11 @@
     width: 70px;
     height: 70px;
     color: white;
+}
+.solve-button:hover{
+    background-color: #ff8936;
+    border:  #ff8936;
+    cursor: grab;
 }
 .calculator{
     font-family: "Roboto", sans-serif;
